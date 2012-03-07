@@ -1,4 +1,4 @@
-//コメント挿入
+//コメント挿入2
 
 // HelloWorld.cpp : Defines the entry point for the application.
 //
